@@ -15,7 +15,7 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 - Use PlantUML for design (Optional)
   
 ## Implementation
-- Demonstrate the usage of IDEs and concerned extensions, e.g. VS Code, PyCharm/IntelliJ, Eclipse IDE 
+- Demonstrate the usage of IDEs and concerned extensions, e.g. VS Code, PyCharm/CLion, Eclipse IDE 
 - Usage of Build Frameworks like Make/CMake for C/C++,  
 - Build your code using GitHub Actions 
 - Integrate Build Framework and GIT operations with IDE 
