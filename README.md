@@ -1,7 +1,7 @@
 # pdlc-tech-tools
 Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usage of Tools &amp; Technology.
 
-# Checklist of Tools & Levraging Technology
+# Checklist of Tools Technology
 ## Setup
 * Initialize a GIT repository for your project and push it to GitHub. 
 * Use Markdown syntax of GITHUB for inline documentation.
