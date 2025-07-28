@@ -9,14 +9,9 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 ## Requirements
 - List the requirements in product backlog of JIRA Project (Agile Methodology)
 - Distribute them into a few Sprints 
-- Integrate JIRA and Github 
-- Build use case diagrams
   
 ## Design
 - UML Diagrams – Class Diagrams, Sequence Diagrams, Activity Diagrams using Draw.io / StarUML / Other. 
-- ER Diagrams using Draw.io / dbdiagram.io 
-- UI Prototyping using Wire Framing tool, e.g. Figma / Pencil (If applicable) 
-- Use Eraser.io for Technical design 
 - Use PlantUML for design (Optional)
   
 ## Implementation
@@ -36,5 +31,9 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 
 ## SDLC Methodology
 - Adopt SCRUM practices in student projects.
-- Awareness on V-Model of Software Development 
+- Awareness on V-Model of Software Development
+
+## Additional/Optiona
+- Integrate JIRA and Github 
+- Build use case diagrams
 
