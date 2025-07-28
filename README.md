@@ -33,7 +33,7 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 - Adopt SCRUM practices in student projects.
 - Awareness on V-Model of Software Development
 
-## Additional/Optiona
+## Additional/Optional
 - Integrate JIRA and Github 
 - Build use case diagrams
 
