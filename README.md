@@ -7,7 +7,7 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 * Use Markdown syntax of GITHUB for inline documentation.
   
 ## Requirements
-- List the requirements in product backlog of JIRA Project (Agile Methodology)
+- List the requirements in product backlog of JIRA Project (Agile Methodology or Github issue tracker
 - Distribute them into a few Sprints 
   
 ## Design
@@ -27,7 +27,7 @@ Adopting Industrial practices for PDLC Phases (EECE/Emb Projects)., applied usag
 - 
 ## Documentation
 - Code Documentation (Generated from Comments) – pydoc/doxygen
-- Documentation using Confluence 
+- Documentation using Markdown/Wiki 
 
 ## SDLC Methodology
 - Adopt SCRUM practices in student projects.
